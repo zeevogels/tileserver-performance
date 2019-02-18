@@ -1,0 +1,52 @@
+{
+	"ImportPath": "github.com/zeevogels/tileserver-performance",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BurntSushi/toml",
+			"Comment": "v0.3.0-7-ga368813",
+			"Rev": "a368813c5e648fee92e5f6c30e3944ff9d5e8895"
+		},
+		{
+			"ImportPath": "github.com/eapache/go-resiliency/retrier",
+			"Comment": "v1.0.0-10-gef9aaa7",
+			"Rev": "ef9aaa7ea8bd2448429af1a77cf41b2b3b34bdd6"
+		},
+		{
+			"ImportPath": "github.com/fatih/camelcase",
+			"Rev": "44e46d280b43ec1531bb25252440e34f1b800b65"
+		},
+		{
+			"ImportPath": "github.com/fatih/structs",
+			"Comment": "v1.0-15-gebf56d3",
+			"Rev": "ebf56d35bba727c68ac77f56f2fcf90b181851aa"
+		},
+		{
+			"ImportPath": "github.com/koding/multiconfig",
+			"Rev": "69c27309b2d751c576b59ea9c3726597c2375da3"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "v1.0.5-2-g90150a8",
+			"Rev": "90150a8ed11b6ce285e77e8af2b0109559ce4777"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "21652f85b0fdddb6c2b6b77a5beca5c5a908174a"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "cc7307a45468e49eaf2997c890f14aa03a26917b"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "cc7307a45468e49eaf2997c890f14aa03a26917b"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.1.1",
+			"Rev": "7f97868eec74b32b0982dd158a51a446d1da7eb5"
+		}
+	]
+}
